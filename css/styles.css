@@ -695,6 +695,6 @@ section {
   }
   .is-hidden {
       opacity:0;
-      visibility: hidden;
+      /*visibility: hidden;*/
       pointer-events:none;   
   }
