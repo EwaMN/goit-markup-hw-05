@@ -447,6 +447,7 @@ section {
 .comp:hover,
 .comp:focus {
     fill:var(--secondary-color);
+    transition-duration:250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 /* ==== end MAIN ==== */
